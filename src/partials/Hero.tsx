@@ -10,7 +10,7 @@ const Hero = () => (
     <HeroAvatar
       title={
         <>
-          Hi there, I'm <GradientText>Ixartz</GradientText> 👋
+          Hola! Yo soy <GradientText>Hugo</GradientText> 👋
         </>
       }
       description={
@@ -36,7 +36,7 @@ const Hero = () => (
       }
       socialButtons={
         <>
-          <a href="/">
+          <a href="https://twitter.com/hugocampanoli" target="_blank">
             <HeroSocial
               src="/assets/images/twitter-icon.png"
               alt="Twitter icon"
